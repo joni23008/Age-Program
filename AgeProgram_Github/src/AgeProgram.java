@@ -11,6 +11,8 @@ public class AgeProgram {
 		int ika = 14;
 		String ikasana;
 		
+		
+		
 
 		System.out.println("Kirjoita ikäsi");
 		ikasana = in.nextLine();
